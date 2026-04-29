@@ -16,3 +16,7 @@ Ditt Apple ID är ditt konto för att kunna ladda ner appar.
 
 1. Har du ett konto? Logga in direkt.
 2. Ny användare? Tryck på "skapa ett gratis Apple ID".
+
+# Appar och data
+1. Välj "Överför inte appar och data" om du vill ha en helt tom och fräsch iPad.
+2. Godkänn villkoren (det är de vanliga grejerna).
