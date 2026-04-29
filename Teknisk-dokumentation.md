@@ -13,3 +13,6 @@
 
 # Apple ID (Viktigast!)
 Ditt Apple ID är ditt konto för att kunna ladda ner appar.
+
+1. Har du ett konto? Logga in direkt.
+2. Ny användare? Tryck på "skapa ett gratis Apple ID".
